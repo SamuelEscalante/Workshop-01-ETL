@@ -95,18 +95,19 @@ To run this project, you will need to add the following environment variables to
    - _eda_: In this notebook, we will dive into a comprehensive exploration of the dataset
    - _data_processing_: This Notebook demonstrates the data processing workflow using the `TransformData` class from the `transform_data.py` module and load final data into 'SuccessfulApplicants' table.
   
-8. Go to Power Bi :
+8. Go to Power Bi :  
 8.1 Open a new dashboard
-![image](https://github.com/SamuelEscalante/MyMed_FRONT/assets/111151068/58f7ff35-e0db-4f86-abed-5c142cef2f86)  
+![image](https://github.com/SamuelEscalante/Workshop-01-ETL/assets/111151068/56e0c10a-4819-4e1e-ad28-d47ad4381ec2)
 
-8.2 More data source :  
-![image](https://github.com/SamuelEscalante/MyMed_FRONT/assets/111151068/3e23f7cc-eb21-407d-9f85-a6ef6740602b)  
+8.2 Look for 'Database PostgreSQL' :  
+![image](https://github.com/SamuelEscalante/Workshop-01-ETL/assets/111151068/581e84ff-0cb4-4240-a998-217c8b9607c4)
 
-8.3 Look for 'Database PostgreSQL'    
-8.4 Insert your information and accept :  
-![image](https://github.com/SamuelEscalante/MyMed_FRONT/assets/111151068/d4fd986a-2b9f-42f0-9b95-403311f57e6e)  
-8.5 Select the tables and load the data :  
-![image](https://github.com/SamuelEscalante/MyMed_FRONT/assets/111151068/a3d4c211-bd63-47c1-8f91-3a27ee3a711d)
+8.3 Insert your information and accept :  
+![image](https://github.com/SamuelEscalante/Workshop-01-ETL/assets/111151068/da2e0d78-ecdc-4068-a97b-c470911c4a18)
+  
+8.4 Select the tables and load the data :  
+![image](https://github.com/SamuelEscalante/Workshop-01-ETL/assets/111151068/da5f7f55-ec3f-40d7-b51e-85b5a7a9c7b6)
+
 
 The data is now synchronized with power bi! You can do your own dashboard.  
 See my dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTA0Zjg0ODEtODRkNi00NjhkLWJkZWQtNWFiM2U2ZjJmOGU4IiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9&pageName=ReportSection) 
