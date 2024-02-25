@@ -37,7 +37,7 @@ def get_engine():
     url = f"{dialect}://{user}:{passwd}@{host}:{port}/{db}"
     try:
         engine = create_engine(url)
-        print(f'Conected successfully to {url}')
+        print(f'Conected successfully to database {db}!')
         return engine
     except SQLAlchemyError as e:
         print(f'Error: {e}')
