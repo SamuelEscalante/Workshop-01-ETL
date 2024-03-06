@@ -110,7 +110,7 @@ To run this project, you will need to add the following environment variables to
 
 
 The data is now synchronized with power bi! You can do your own dashboard.  
-See my dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZTA0Zjg0ODEtODRkNi00NjhkLWJkZWQtNWFiM2U2ZjJmOGU4IiwidCI6IjY5M2NiZWEwLTRlZjktNDI1NC04OTc3LTc2ZTA1Y2I1ZjU1NiIsImMiOjR9&pageName=ReportSection) 
+See my dashboard [here](Dashboard-Workshop-01.pdf) 
 
 ## Farewell and Thanks
 
